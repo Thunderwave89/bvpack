@@ -1,0 +1,23 @@
+{
+  "name": "No More Pillager Outposts",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "TVwya3R9",
+      "slug": "no-more-pillager-outposts",
+      "versionId": "7CfNBoWx",
+      "versionNumber": "1.0.2+mod",
+      "filename": "no-more-pillager-outposts-1.0.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/TVwya3R9/versions/7CfNBoWx/no-more-pillager-outposts-1.0.2.jar",
+      "sha1": "ac38d8f67d552f720b0b8b636e2ca7469f3ec072",
+      "sha512": "1e699530b291efde8755e75d085c51bef94dafa718539c96776cb19d33575cbc21f9b4f047c5601087af6d371f4191649d7758b43ea358dc7c5e003a3ea9e819",
+      "fileSize": 10377
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "required"
+}

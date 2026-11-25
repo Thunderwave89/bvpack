@@ -1,0 +1,23 @@
+{
+  "name": "Thigh highs etc.",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "6aZTHLYT",
+      "slug": "thigh-highs-etc",
+      "versionId": "LQ65Omxv",
+      "versionNumber": "2.0.0",
+      "filename": "thigh_highs_etc-2.0.0-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/6aZTHLYT/versions/LQ65Omxv/thigh_highs_etc-2.0.0-neoforge.jar",
+      "sha1": "a1da5c3c0dda64db9dd3715d358ff832e083e36d",
+      "sha512": "a29d42da1c555038b6f8f3786b956f437e5bdbec5164c2edf5c3a476bb2ebc45bfa0da7cab316510c85a5e320c98205a6cefc51a4f91ea361dc620bf093a02fb",
+      "fileSize": 400300
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

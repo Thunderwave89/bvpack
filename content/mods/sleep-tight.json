@@ -1,0 +1,26 @@
+{
+  "name": "Sleep Tight",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "tNai0h2Y",
+      "slug": "sleep-tight",
+      "versionId": "wZf65KFu",
+      "versionNumber": "1.21-1.6.3",
+      "filename": "sleep_tight-1.21-1.6.3-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/tNai0h2Y/versions/wZf65KFu/sleep_tight-1.21-1.6.3-neoforge.jar",
+      "sha1": "d665bc2c3e744e50290d9672469fb3dfeb7166a6",
+      "sha512": "3da009bba2281a733d0cfb4d718496a1cec448eedb9b6d6fb1da7db413865a83c56d2ae57450edd702a79debaaa6e51c91d4985eaaacee62d342bf85e28f003b",
+      "fileSize": 761169
+    }
+  },
+  "dependents": [],
+  "optionalDependents": [
+    "naUMeOvG"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

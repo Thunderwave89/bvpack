@@ -1,0 +1,22 @@
+{
+  "name": "Woodworks",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "543610",
+      "slug": "woodworks",
+      "versionId": "7118286",
+      "versionNumber": "Woodworks 1.21.1 - 4.0.2",
+      "filename": "woodworks-1.21.1-4.0.2.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7118/286/woodworks-1.21.1-4.0.2.jar",
+      "sha1": "60923236a7bbfc412dc2a0fb1526911a72040fbe",
+      "fileSize": 1411040
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

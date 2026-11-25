@@ -1,0 +1,25 @@
+{
+  "name": "Easy NPC: Config UI",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "uTGjf7vA",
+      "slug": "easy-npc-config-ui",
+      "versionId": "x2X1dzmL",
+      "versionNumber": "7.20.0",
+      "filename": "easy_npc_config_ui-neoforge-1.21.1-7.20.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/uTGjf7vA/versions/x2X1dzmL/easy_npc_config_ui-neoforge-1.21.1-7.20.0.jar",
+      "sha1": "7738a362f324567a1e6ed0c8857c4cf686fbfc03",
+      "sha512": "843113e362464c301537ebbf8c6b4ee3172065f0314d4bc35349f00b39df6dfdaf347fbdfb0ee67c975eaaf14a6689b76df05644705d2d3cfdf9c5a888a4b57e",
+      "fileSize": 1186266
+    }
+  },
+  "dependents": [
+    "CgGEe1h3"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

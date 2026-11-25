@@ -1,0 +1,23 @@
+{
+  "name": "Enxorbytes Various Vanities",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "jXoxxhCl",
+      "slug": "enxorbytes-various-vanities",
+      "versionId": "l9dFCeQo",
+      "versionNumber": "1.2.1",
+      "filename": "various vanities 1.2.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/jXoxxhCl/versions/l9dFCeQo/various%20vanities%201.2.1.jar",
+      "sha1": "34c327e96f2485823cee4e4baab1728cdd6fc66c",
+      "sha512": "d40ad3749ead2b89a3e6208f3e8082bef4c02f7d411bd100b7766346f9b7648887719144246523f318892a09cbddc27a15103834f72ce658e6e4bf8e65bcfd03",
+      "fileSize": 247167
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

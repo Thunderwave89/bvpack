@@ -1,0 +1,23 @@
+{
+  "name": "Simple Fog Control",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Glp1bwYc",
+      "slug": "simplefog",
+      "versionId": "ywT5urX0",
+      "versionNumber": "2.0.5",
+      "filename": "simplefog-neoforge-1.21.1-2.0.5.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Glp1bwYc/versions/ywT5urX0/simplefog-neoforge-1.21.1-2.0.5.jar",
+      "sha1": "b7dc69f639ab4b0196de03fcd8015f564ac526dd",
+      "sha512": "a3069c7ab02969bd250636dcb99a9b8b1201d8b236ce7c8f7c69cce3c60d09fcab7c075b86f059433c493af993ba9d70dee0fbe3cc3d8eda6d1b0d8809f60960",
+      "fileSize": 32805
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

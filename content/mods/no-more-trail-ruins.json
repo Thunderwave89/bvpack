@@ -1,0 +1,23 @@
+{
+  "name": "No More Trail Ruins",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "tQxE2RZL",
+      "slug": "no-more-trail-ruins",
+      "versionId": "p8HWoFEW",
+      "versionNumber": "1.0.1+mod",
+      "filename": "no-more-trail-ruins-1.0.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/tQxE2RZL/versions/p8HWoFEW/no-more-trail-ruins-1.0.1.jar",
+      "sha1": "e876a385221e1542276fcde2e84e9631e95ce1c0",
+      "sha512": "2f79a51fabdb9995a77584fc8323e90b506c48a1fc0967f81c9498b885abc7e4abdbe1eaf4e48b3a17e3fac9df7e21d76eb1275e867518dce6a8c5244f256f44",
+      "fileSize": 9715
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "required"
+}

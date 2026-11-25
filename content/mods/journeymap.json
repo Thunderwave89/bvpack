@@ -1,0 +1,23 @@
+{
+  "name": "JourneyMap",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "lfHFW1mp",
+      "slug": "journeymap",
+      "versionId": "8eitHTkG",
+      "versionNumber": "1.21.1-6.0.10+neoforge",
+      "filename": "journeymap-neoforge-1.21.1-6.0.10.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/lfHFW1mp/versions/8eitHTkG/journeymap-neoforge-1.21.1-6.0.10.jar",
+      "sha1": "d2d9da5189ee0af363ae3e0a6e3438c6d816d363",
+      "sha512": "0c989c68f11ffcd2c2d83d5544491c678afbcb41076467065e7fbec54c6f80d1425e56a7ba7ad6916766212eae8c521bd7ad743d5b84f87ff0e281d78d68a879",
+      "fileSize": 4329146
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

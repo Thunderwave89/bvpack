@@ -1,0 +1,23 @@
+{
+  "name": "No More Ruined Portals",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Vf9nOP5y",
+      "slug": "no-more-ruined-portals",
+      "versionId": "WExSBD2f",
+      "versionNumber": "1.0.1+mod",
+      "filename": "no-more-ruined-portals-1.0.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Vf9nOP5y/versions/WExSBD2f/no-more-ruined-portals-1.0.1.jar",
+      "sha1": "628fa667fffcb282c0d348092290c6d12f47a46d",
+      "sha512": "3a4faa4d72af9238bd5286e0b7b4d1fdc2d56421a12de9a8a5c4f85db961013722b627f334523bd0f3d0b80656834d457e298c0c55e74699e3d5c974fc806ac8",
+      "fileSize": 12006
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "required"
+}

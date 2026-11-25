@@ -1,0 +1,23 @@
+{
+  "name": "Superflat World No Slimes",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "7lrBqj5C",
+      "slug": "superflat-world-no-slimes",
+      "versionId": "OHCdhqlM",
+      "versionNumber": "1.21.1-3.7-fabric+forge+neo",
+      "filename": "superflatworldnoslimes-1.21.1-3.7.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/7lrBqj5C/versions/OHCdhqlM/superflatworldnoslimes-1.21.1-3.7.jar",
+      "sha1": "9c8257d56fedea856655b256d929866d935d7bdf",
+      "sha512": "bf590a7cf40fb0d388a977684085625e4a7dd5c0ee62c6d3128fde632be537f49e1fe735342b947e3c20df45ad0c782484dd8e61013dc683cac05d65a35b1031",
+      "fileSize": 25545
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "GlitchCore",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "s3dmwKy5",
+      "slug": "glitchcore",
+      "versionId": "S2TfWrZR",
+      "versionNumber": "2.1.0.2",
+      "filename": "GlitchCore-neoforge-1.21.1-2.1.0.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/s3dmwKy5/versions/S2TfWrZR/GlitchCore-neoforge-1.21.1-2.1.0.2.jar",
+      "sha1": "e3d4bb80a06f619be989ab529d0cd4e33e076943",
+      "sha512": "7a009ed163d03536fdfaee7b37cb1ec3073204dffcb06a683369aa88da8dbc3780b0ac69d466bb32a3ad9394c97b698d0fda676e1b4dd4edfc50ac5aa2283c32",
+      "fileSize": 90717
+    }
+  },
+  "dependents": [
+    "e0bNACJD"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Snow! Real Magic! ⛄",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "iJNje1E8",
+      "slug": "snow-real-magic",
+      "versionId": "gLnAisfF",
+      "versionNumber": "12.2.7+neoforge",
+      "filename": "SnowRealMagic-1.21.1-NeoForge-12.2.7.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/iJNje1E8/versions/gLnAisfF/SnowRealMagic-1.21.1-NeoForge-12.2.7.jar",
+      "sha1": "1c910ffbb04af8c2e00d032fa29bb6365fd72594",
+      "sha512": "236a6c780a9098639be1574d0b68a2362e0a1dd244dfab78e250e56e0d61df1634b23dbb85a9eeed109c95c750dbfc5a842bbe9ce30399c742a5e091e3d7f3c8",
+      "fileSize": 3911825
+    }
+  },
+  "dependents": [],
+  "optionalDependents": [
+    "vvgTqF0n"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

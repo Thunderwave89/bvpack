@@ -1,0 +1,27 @@
+{
+	"favorites": [
+		"{type:\"roughlyenoughitems:weather\",weather:\"NOT_SET\"}",
+		"{mode:\"NOT_SET\",type:\"roughlyenoughitems:time\"}",
+		"{mode:\"NOT_SET\",type:\"roughlyenoughitems:gamemode\"}",
+		"{data:{count:1,id:\"nomansland:trimmed_spruce_planks\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{count:1,id:\"minecraft:stripped_dark_oak_wood\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{count:1,id:\"minecraft:spruce_slab\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{count:1,id:\"nomansland:walnut_slab\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{count:1,id:\"tuttasdoors:oak_transit_door\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{count:1,id:\"woodworks:spruce_boards\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{count:1,id:\"nomansland:maple_bookshelf\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{count:1,id:\"enderscape:murublight_pressure_plate\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{count:1,id:\"minecraft:stripped_birch_wood\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{count:1,id:\"tuttasdoors:birch_indiscrete_door\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{count:1,id:\"windswept:holly_pet_door\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{components:{\"minecraft:potion_contents\":{potion:\"minecraft:strong_turtle_master\"}},count:1,id:\"minecraft:splash_potion\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{count:1,id:\"nomansland:wooden_platform_stairs\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{count:1,id:\"minecraft:stripped_jungle_wood\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{count:1,id:\"minecraft:birch_stairs\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{count:1,id:\"caverns_and_chasms:exposed_copper_chain\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{count:1,id:\"enderscape:murublight_pet_door\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{count:1,id:\"atmospheric:laurel_pet_door\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
+	],
+	"hiddenFavorites": [],
+	"displays": []
+}

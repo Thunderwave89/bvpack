@@ -1,0 +1,22 @@
+{
+  "name": "Debugify Reforge",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1668204",
+      "slug": "debugify-reforge",
+      "versionId": "9720381",
+      "versionNumber": "debugify-1.21.1+1.3.jar",
+      "filename": "debugify-1.21.1-1.3.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9720/381/debugify-1.21.1-1.3.jar",
+      "sha1": "8042ca03786a5a443b9aa8eefd1880f638094da4",
+      "fileSize": 341195
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

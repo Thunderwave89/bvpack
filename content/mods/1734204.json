@@ -1,0 +1,22 @@
+{
+  "name": "Touch'n Motion",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1734204",
+      "slug": "touch-and-motion",
+      "versionId": "9524859",
+      "versionNumber": "touch_n_motion_neoforge_1.21.1_1.0.5.jar",
+      "filename": "touch_n_motion_neoforge_1.21.1_1.0.5.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9524/859/touch_n_motion_neoforge_1.21.1_1.0.5.jar",
+      "sha1": "888c6175492105f4df7be86ad5bc0fb65332064e",
+      "fileSize": 1115913
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

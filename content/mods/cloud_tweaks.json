@@ -1,0 +1,26 @@
+{
+  "name": "Cloud Tweaks",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "3VF0kOsp",
+      "slug": "cloud_tweaks",
+      "versionId": "oLdRl6XY",
+      "versionNumber": "0.4.1+1.21",
+      "filename": "cloud_tweaks+1.21-0.4.1-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/3VF0kOsp/versions/oLdRl6XY/cloud_tweaks%2B1.21-0.4.1-neoforge.jar",
+      "sha1": "65005a2a34824de988afed6b9b207a412b2ccfd7",
+      "sha512": "958055cfd26cd477af2e63f8c0e528a01c0e016099ea80b78131fde91acd107ecb42f4fb0452f0efb0c25c89a5b022a2c9453eea8032008304f91ade6528d141",
+      "fileSize": 727838
+    }
+  },
+  "dependents": [],
+  "optionalDependents": [
+    "5YR2KX4z"
+  ],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

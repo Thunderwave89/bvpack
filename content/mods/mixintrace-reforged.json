@@ -1,0 +1,23 @@
+{
+  "name": "MixinTrace Reforged",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "MdyrQYHR",
+      "slug": "mixintrace-reforged",
+      "versionId": "q5i120SG",
+      "versionNumber": "neoforge-1.21.1-1.0.0",
+      "filename": "mixintracereforged-neoforge-1.0.0-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/MdyrQYHR/versions/q5i120SG/mixintracereforged-neoforge-1.0.0-1.21.1.jar",
+      "sha1": "7184298a588d58d95ba18fb37d71809cf3b47cfb",
+      "sha512": "51e5d087dd581451b9777548f607ee0407c1f94d852faf1cbeb894ff968a65522ad61406bccc024f49e264eb3284563379194722e5f11adaf8d2a2881e00a0ff",
+      "fileSize": 91404
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

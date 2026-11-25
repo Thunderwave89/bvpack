@@ -1,0 +1,23 @@
+{
+  "name": "Dye The World!",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "naUMeOvG",
+      "slug": "dye-the-world",
+      "versionId": "UNSOtowm",
+      "versionNumber": "2.5.0",
+      "filename": "dye_the_world-2.5.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/naUMeOvG/versions/UNSOtowm/dye_the_world-2.5.0.jar",
+      "sha1": "07e7ac84be4215f5d3cda2e2cb1ed49df992bf8d",
+      "sha512": "c52b82007a597156c1efa2511fe479a31438f4d42597eae58e7acc0a679a2db4edf67c1f1f0a42f1f161d4049bb5684791c2536fe91e35e74963cf117ef8c994",
+      "fileSize": 7327151
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

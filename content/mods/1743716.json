@@ -1,0 +1,22 @@
+{
+  "name": "Living Wind",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1743716",
+      "slug": "living-wind",
+      "versionId": "9360977",
+      "versionNumber": "v1.3.6 - [NeoForge 1.21.1]",
+      "filename": "LivingWind-NeoForge-1.21.1-v1.3.6.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9360/977/LivingWind-NeoForge-1.21.1-v1.3.6.jar",
+      "sha1": "0945e081e5f15c0ddc2ddf12cd6783fe4ec6d0f8",
+      "fileSize": 4189212
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

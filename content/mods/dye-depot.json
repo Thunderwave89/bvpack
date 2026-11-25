@@ -1,0 +1,25 @@
+{
+  "name": "Dye Depot",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "dl88rsIq",
+      "slug": "dye-depot",
+      "versionId": "9aHqSxUo",
+      "versionNumber": "2.1.2",
+      "filename": "dye_depot-1.21.1-neoforge-2.1.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/dl88rsIq/versions/9aHqSxUo/dye_depot-1.21.1-neoforge-2.1.2.jar",
+      "sha1": "a2a6dd1f9a7cc2ba13dae8199caf8574475a5c85",
+      "sha512": "667d2d7f6c724f7c62b2b571e9e76ef4da612bdd105306ef8dab08ea3116b485f94a56ec630f2a5ab78a130e59cc176fe2c8a96faa92ade512a5713ed1d9afec",
+      "fileSize": 1625620
+    }
+  },
+  "dependents": [
+    "naUMeOvG"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

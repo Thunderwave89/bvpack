@@ -1,0 +1,26 @@
+{
+  "name": "Easy NPC: Core",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Epm6R3P2",
+      "slug": "easy-npc-core",
+      "versionId": "DKyg6Yk7",
+      "versionNumber": "7.20.0",
+      "filename": "easy_npc-neoforge-1.21.1-7.20.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Epm6R3P2/versions/DKyg6Yk7/easy_npc-neoforge-1.21.1-7.20.0.jar",
+      "sha1": "921df3f033f6c6df36a284b49cb53bc95303d1d4",
+      "sha512": "f5aa46ea858b7ba2e5184598bb0f6b6d870db1f5733962838d4658b208a91bb5b0ce5c2d048b80a1fcf5b249eeb36d0b905f1920398a48a63ff1d818933e1cd6",
+      "fileSize": 3157251
+    }
+  },
+  "dependents": [
+    "CgGEe1h3",
+    "uTGjf7vA"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

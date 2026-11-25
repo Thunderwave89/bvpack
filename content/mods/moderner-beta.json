@@ -1,0 +1,23 @@
+{
+  "name": "Moderner Beta",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "xkrdwmh2",
+      "slug": "moderner-beta",
+      "versionId": "iRc8orve",
+      "versionNumber": "5.0.0-alpha.4+1.21.1-neoforge",
+      "filename": "moderner-beta-neoforge-5.0.0-alpha.4+1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/xkrdwmh2/versions/iRc8orve/moderner-beta-neoforge-5.0.0-alpha.4%2B1.21.1.jar",
+      "sha1": "1820a92bce942dc5d18289854da6b1d603e97090",
+      "sha512": "edcdcd6e4324614655be8d36921b883e0848d5ec97f73512a06a11218509883d9d5f625bc810e6e23f8e2c343f648a080ed96886cfdd21b2b2e9bf9057302301",
+      "fileSize": 2634445
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "required"
+}

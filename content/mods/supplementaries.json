@@ -1,0 +1,28 @@
+{
+  "name": "Supplementaries",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "fFEIiSDQ",
+      "slug": "supplementaries",
+      "versionId": "FnDtOHE2",
+      "versionNumber": "1.21.1-4.0.0",
+      "filename": "supplementaries-1.21.1-4.0.0-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/fFEIiSDQ/versions/FnDtOHE2/supplementaries-1.21.1-4.0.0-neoforge.jar",
+      "sha1": "bd458e85a180cc036110cadc0f8f8fca0c63a0be",
+      "sha512": "79d8a0b58834005581ad7e69d5cd8789ebc2c29c7f552ed60de07e36322b7fc66b02666bacfc4bc272f52d63a2b46c1499a04a6eccc893f32537fb50722fd7b9",
+      "fileSize": 13840634
+    }
+  },
+  "dependents": [
+    "dCCkNFwE"
+  ],
+  "optionalDependents": [
+    "naUMeOvG"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

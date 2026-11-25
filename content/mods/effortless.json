@@ -1,0 +1,23 @@
+{
+  "name": "Effortless Structure",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "EF68hjiy",
+      "slug": "effortless",
+      "versionId": "ngJJMR0I",
+      "versionNumber": "3.4.0",
+      "filename": "effortless-1.21.1-3.4.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/EF68hjiy/versions/ngJJMR0I/effortless-1.21.1-3.4.0.jar",
+      "sha1": "fd60c4a0b8c0d2da7e0897644dbc157db19bb54f",
+      "sha512": "1089fbd9b5db0880836ef0f85cf10037e8f89e4321d08efd7d15bd0322a4f906a26769d47fc9737d655605c735abd7925d46390fb9f8b63ffcff142ecdf87cf7",
+      "fileSize": 2054108
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

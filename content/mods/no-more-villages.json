@@ -1,0 +1,23 @@
+{
+  "name": "No More Villages",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "1Iz8blYk",
+      "slug": "no-more-villages",
+      "versionId": "1N7zR55G",
+      "versionNumber": "1.1.0+mod",
+      "filename": "no-more-villages-1.1.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/1Iz8blYk/versions/1N7zR55G/no-more-villages-1.1.0.jar",
+      "sha1": "3ecfcf38c2258f3f022ce1c72bd8de36c75b803b",
+      "sha512": "a9e8a2c30894e6d2adba824482960ea35477b09afac50d99cea9d4c410b33a86a1d67f821f2cb84416de32c7ffd99a17362f43ab1f01f3e2902c2f5eae8a1b14",
+      "fileSize": 14559
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "required"
+}
