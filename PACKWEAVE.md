@@ -1,6 +1,6 @@
-# BV-modpack-Please-Work-6.-2-prism (2)
+# BVPack
 
-**Minecraft 1.21.1 · NeoForge 21.1.264**, 131 mods
+**Minecraft 1.21.1 · NeoForge 21.1.264**, 133 mods
 
 ## Contents
 
@@ -27,6 +27,7 @@
 - [Cold Sweat](https://modrinth.com/project/cold-sweat) `2.4.5`
 - [Collective](https://modrinth.com/project/collective) `1.21.1-8.87-fabric+forge+neo`
 - [Cool Rain Reforged](https://modrinth.com/project/cool-rain-reforged) `1.0.2`
+- [CraterLib](https://modrinth.com/project/craterlib) `1.21-3.1.3`
 - [Create](https://modrinth.com/project/create) `6.0.10+mc1.21.1`
 - [Create Aeronautics](https://modrinth.com/project/create-aeronautics) `1.3.2+mc1.21.1`
 - [Create: Coasters Simulated](https://modrinth.com/project/create-coasters-simulated) `0.1.5`
@@ -106,6 +107,7 @@
 - [Scholar](https://modrinth.com/project/scholar) `1.2.10`
 - [Searchables](https://modrinth.com/project/searchables) `1.0.2`
 - [Serene Seasons](https://modrinth.com/project/serene-seasons) `10.1.0.9`
+- [Simple Discord Link](https://modrinth.com/project/sdlink) `3.4.5`
 - [Simple Fog Control](https://modrinth.com/project/simplefog) `2.0.5`
 - [Singleplayer Jitter Fix](https://modrinth.com/project/singleplayer-jitter-fix) `1.21.1-1.5.0`
 - [Sinytra Connector](https://modrinth.com/project/connector) `2.0.0-beta.17+1.21.1`

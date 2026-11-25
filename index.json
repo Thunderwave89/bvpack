@@ -113,6 +113,10 @@
       "sha1": "c1bc39de9b7cfb5afb7cf4d3aaa60ea15fcf285b"
     },
     {
+      "path": "content/mods/craterlib.json",
+      "sha1": "22aac851d754fb7162ba769ef1afaf78e1e48d40"
+    },
+    {
       "path": "content/mods/create-aeronautics.json",
       "sha1": "bd1fa5708209299ebb910d08953a7c8f3b36656f"
     },
@@ -407,6 +411,10 @@
     {
       "path": "content/mods/scholar.json",
       "sha1": "b7362aed58022ab91f0e1a51ac0b1fc74096427f"
+    },
+    {
+      "path": "content/mods/sdlink.json",
+      "sha1": "2342aa969644cdb28b22c64e31bea05704420ca4"
     },
     {
       "path": "content/mods/searchables.json",

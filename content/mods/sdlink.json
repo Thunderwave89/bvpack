@@ -1,0 +1,23 @@
+{
+  "name": "Simple Discord Link",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Sh0YauEf",
+      "slug": "sdlink",
+      "versionId": "gRJBLNWh",
+      "versionNumber": "3.4.5",
+      "filename": "SimpleDiscordLink-Universal-3.4.5.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Sh0YauEf/versions/gRJBLNWh/SimpleDiscordLink-Universal-3.4.5.jar",
+      "sha1": "6321b1003c1e6df824b1f851a7e5089a53441c41",
+      "sha512": "626e3c424abbaf9dfb69f73906dbad01d2d1d0d2fdb83b6767395860297c6f55a4b7a91e17fbd76666c032ad8519ff54bf8c4529e7912ba706c986197b88a770",
+      "fileSize": 10071903
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}
